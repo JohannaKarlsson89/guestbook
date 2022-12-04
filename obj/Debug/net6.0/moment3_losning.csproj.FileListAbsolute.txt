@@ -1,0 +1,15 @@
+C:\Users\Hanni\Documents\c#\moment3_losning\bin\Debug\net6.0\moment3_losning.exe
+C:\Users\Hanni\Documents\c#\moment3_losning\bin\Debug\net6.0\moment3_losning.deps.json
+C:\Users\Hanni\Documents\c#\moment3_losning\bin\Debug\net6.0\moment3_losning.runtimeconfig.json
+C:\Users\Hanni\Documents\c#\moment3_losning\bin\Debug\net6.0\moment3_losning.dll
+C:\Users\Hanni\Documents\c#\moment3_losning\bin\Debug\net6.0\ref\moment3_losning.dll
+C:\Users\Hanni\Documents\c#\moment3_losning\bin\Debug\net6.0\moment3_losning.pdb
+C:\Users\Hanni\Documents\c#\moment3_losning\obj\Debug\net6.0\moment3_losning.csproj.AssemblyReference.cache
+C:\Users\Hanni\Documents\c#\moment3_losning\obj\Debug\net6.0\moment3_losning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanni\Documents\c#\moment3_losning\obj\Debug\net6.0\moment3_losning.AssemblyInfoInputs.cache
+C:\Users\Hanni\Documents\c#\moment3_losning\obj\Debug\net6.0\moment3_losning.AssemblyInfo.cs
+C:\Users\Hanni\Documents\c#\moment3_losning\obj\Debug\net6.0\moment3_losning.csproj.CoreCompileInputs.cache
+C:\Users\Hanni\Documents\c#\moment3_losning\obj\Debug\net6.0\moment3_losning.dll
+C:\Users\Hanni\Documents\c#\moment3_losning\obj\Debug\net6.0\ref\moment3_losning.dll
+C:\Users\Hanni\Documents\c#\moment3_losning\obj\Debug\net6.0\moment3_losning.pdb
+C:\Users\Hanni\Documents\c#\moment3_losning\obj\Debug\net6.0\moment3_losning.genruntimeconfig.cache
